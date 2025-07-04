@@ -2,6 +2,8 @@
 - [ ] HTML
 - [ ] CSS3
 - [ ] Markdown / .md
+- [ ] python
+- [ ] .txt
 
 # Seleccione el tipo de actividad
 - [ ] Feature
